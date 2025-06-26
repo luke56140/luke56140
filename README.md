@@ -1,5 +1,5 @@
 # Hi, I’m Luke!
-<b> I am a third-year Mechanical Engineering student at the University of Auckland with a focus on structural analysis and CAD design. I am passionate about solving real-world problems through innovative mechanical solutions  </b>
+<b> I am a third-year Mechanical Engineering student at the University of Auckland. I am passionate about solving real-world problems through innovative solutions. </b>
 
 <h2>👨‍💻 Mechanical Engineering Projects:</h2>
 
