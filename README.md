@@ -5,7 +5,7 @@
 
 
 - <b> Aircraft Bracket for load bearing assembly </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Aircraft Bracket](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Prototyping of a Mechanism </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
