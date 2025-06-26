@@ -5,7 +5,7 @@
 
 
 - <b> Aircraft Bracket for load bearing assembly </b>
-  - [Aircraft Bracket](https://github.com/luke56140/aircraft-bracket-design)
+  - [Aircraft Bracket Design](https://github.com/luke56140/aircraft-bracket-design)
 - <b> Prototyping of a Mechanism </b>
   - [Mechanism Prototype](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
